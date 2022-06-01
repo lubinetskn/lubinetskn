@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I am Lubinets Konstantin. 👩‍💻 Frontend Developer.
+Currently based in Nha Trang, Vietnam 🇦:sunrise: .
 
 <!--
 **lubinetskn/lubinetskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
