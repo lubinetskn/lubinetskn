@@ -6,6 +6,9 @@ Currently based in Nha Trang, Vietnam :sunrise: .
 ## My Tech Stack:
 JavaScript, React.js + RTK, HTML, CSS (CSS modules, EMOTION, SCSS, LESS, BEM).
 
+[My latest CV](https://www.notion.so/Lubinets-Konstantin-36183609e9ed42ecb028124fb425d3a0 "My latest CV") ✨
+
+
 <!--
 **lubinetskn/lubinetskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
