@@ -1,7 +1,7 @@
 # Hi there 👋
 ## I am Lubinets Konstantin. Frontend Developer. 👩‍💻
 
-Currently based in Nha Trang, Vietnam :sunrise: .
+Currently based in Tbilisi, Georgia :sunrise: .
 
 ## My Tech Stack:
 JavaScript, React.js + RTK, HTML, CSS (CSS modules, EMOTION, SCSS, LESS, BEM).
