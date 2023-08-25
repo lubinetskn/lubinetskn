@@ -1,10 +1,10 @@
 # Hi there 👋
 ## I am Lubinets Konstantin. Frontend Developer. 👩‍💻
 
-Currently based in Istanbul, Turkey :sunrise: .
+Currently based in Barcelona, Spain :sunrise: .
 
 ## My Tech Stack:
-JavaScript, React.js + RTK, HTML, CSS (CSS modules, EMOTION, SCSS, LESS, BEM).
+JavaScript, React.js + RTK, HTML, CSS (CSS modules, EMOTION, SCSS).
 
 [My latest CV](https://www.notion.so/Lubinets-Konstantin-36183609e9ed42ecb028124fb425d3a0 "My latest CV") ✨
 
